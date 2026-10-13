@@ -1,7 +1,4 @@
 # 2048	
-	 	
-# Introducción
-
 El juego 2048 es un popular rompecabezas para un solo jugador en el que el jugador desliza fichas numeradas en una cuadrícula para combinarlas y crear una ficha con el número 2048. El juego se juega en una cuadrícula de 4 × 4; cada movimiento desplaza todas las fichas hacia arriba, abajo, izquierda o derecha y fusiona las fichas del mismo valor si chocan. El desafío consiste en administrar el espacio sabiamente y planificar los movimientos cuidadosamente para evitar quedarse atascado.
 
 # Estructura del juego
